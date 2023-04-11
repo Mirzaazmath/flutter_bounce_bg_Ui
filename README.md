@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+<img src="https://github.com/Mirzaazmath/flutter_bounce_bg_Ui/blob/main/assets/result.gif" height ="400">
+
+Usage 
+* Rive Animation
+* Rive Package
+* Gradient colors
+* Glassmorphism
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
